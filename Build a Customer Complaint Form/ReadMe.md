@@ -1,4 +1,4 @@
-#Indo
+# indo
 Halo saya telah selesai mengerjakan salah satu project yang ada di freeCodeCamp, kode yang telah saya buat akan saya jadikan protofolio dan saya upload di sini. semoga bermanfaat. 
 Untuk kode HTML dan CSS telah tersedia dari platform tersebut secara default, di sini saya hanya menambahkan javascript saja untuk fungsionalitas. 
 Project ini saya belajar bagaimana membuat form yang interaktif terutama pada bagian validasinya. 
