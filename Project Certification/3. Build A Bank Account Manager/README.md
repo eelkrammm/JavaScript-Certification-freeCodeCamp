@@ -4,7 +4,7 @@ This project is part of the FreeCodeCamp JavaScript Certification, specifically 
 
 The application models a bank account that allows users to perform basic financial operations such as deposits and withdrawals, while also maintaining a structured transaction history. This project is designed to strengthen understanding of class-based design, state management, and data handling in JavaScript.
 
-🔗 Project Link: (add your GitHub repo or live demo here)
+🔗 Project Link: https://www.freecodecamp.org/learn/javascript-v9/lab-bank-account-manager/build-a-bank-account-management-program
 
 Features
 
