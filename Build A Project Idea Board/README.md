@@ -1,3 +1,5 @@
+This project is part of the FreeCodeCamp JavaScript Certification, specifically from the lab "Build a Project Idea Board". It is designed to demonstrate fundamental JavaScript concepts, particularly object-oriented programming (OOP), through a practical implementation. 
+
 Project Overview
 
 This project implements a simple yet structured system for managing and organizing project ideas using object-oriented programming principles. It allows users to create, track, and manage ideas along with their execution status in a centralized board.
